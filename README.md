@@ -1,5 +1,7 @@
 Hello, i am notcapiii.
+
 I am a french teenager learning lua and python.
+
 If you want to reach me, my discord is : capi#0001 
 
 
