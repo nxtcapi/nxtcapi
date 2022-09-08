@@ -1,10 +1,23 @@
+### <p align="center">🔥 &nbsp;About me</p>
+<br>
+<p align="center"><strong>
 Hello, i am notcapiii.
 
 I am a french teenager learning lua and python.
 
 If you want to reach me, my discord is : capi#0001 
+</strong></p>
 
 
+-----
+### <p align="center">⚙️ &nbsp;Statistics</p>
+<br>
+<p align="center">
+<a href="https://github.com/notcapiii">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=notcapiii&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=notcapiii&layout=compact&langs_count=8&theme=react&locale=fr"/>
+</a>
+  
+</p>
 
-
-<p align="center"><img src="https://metrics.lecoq.io/NotCapiii?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka"></p 
+-----
