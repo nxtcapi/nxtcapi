@@ -2,9 +2,9 @@
 <br>
 <p align="center"><strong>
 Hello, i am notcapiii.
-
+<p align="center"><strong>
 I am a french teenager learning lua and python.
-
+<p align="center"><strong>
 If you want to reach me, my discord is : capi#0001 
 </strong></p>
 
