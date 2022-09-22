@@ -24,3 +24,7 @@ If you want to reach me, my discord is : capi#0001
 </p>
 
 -----
+  ### <p align="center">👻 &nbsp;My discord</p>
+<a href="https://discord.com/users/741653142411804733">
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/980875212537090128.png" />
+</a>
