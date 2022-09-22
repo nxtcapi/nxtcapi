@@ -29,3 +29,5 @@ If you want to reach me, my discord is : capi#0001
 <a href="https://discord.com/users/741653142411804733">
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/741653142411804733.png" />
 </a>
+    
+    -----
