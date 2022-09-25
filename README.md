@@ -16,6 +16,13 @@ If you want to reach me, my discord is : capi#0001
 -----
 ### <p align="center">⚙️ &nbsp;Statistics</p>
 <br>
+  <p align="center"><img src="https://gpvc.arturio.dev/asynncc" alt="Visitors"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/notcapiii" alt="Profile Stars"></a>
+<img src="https://img.shields." alt="Profile Forks"></a>
+<p align="center">  
+<img src="https://github-readme-stats.vercel.app/api?username=notcapiii&show_icons=true&theme=dark&count_private=true">
+</p>
+
 <p align="center">
 <a href="https://github.com/notcapiii">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=notcapiii&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
