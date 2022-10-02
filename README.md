@@ -18,8 +18,8 @@ If you want to reach me, my discord is : capi#0001
 <br>
 <p align="center">
 <a href="https://github.com/notcapiii">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=notcapiii&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=notcapiii&layout=compact&langs_count=8&theme=react&locale=fr"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nxtcapi&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nxtcapi&layout=compact&langs_count=8&theme=react&locale=fr"/>
 </a>
   
 </p>
