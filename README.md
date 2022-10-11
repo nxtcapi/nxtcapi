@@ -6,7 +6,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there. I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://discord.gg/9pDrX8r37s">nxtcapi</a></b>.
+    Hello there, I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://discord.gg/9pDrX8r37s">nxtcapi</a></b>.
     <br>I am a french teen learning lua and python.<br>
 
 
