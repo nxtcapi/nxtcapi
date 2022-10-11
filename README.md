@@ -3,14 +3,12 @@
 
 
 ### <p align="center">🔥 &nbsp;About me</p>
-<br>
-<p align="center"><strong>
-Hello, i am notcapiii.
-<p align="center"><strong>
-I am a french teenager learning lua and python.
-<p align="center"><strong>
-If you want to reach me, my discord is : capi#0001 
-</strong></p>
+<p align="center">
+  <br>
+  <samp>
+    Hello there. I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://discord.gg/9pDrX8r37s">nxtcapi</a></b>.
+    <br>I am a french teen learning lua and python.<br>
+
 
 
 -----
