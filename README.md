@@ -1,7 +1,7 @@
 ```lua
 i make stuff :p
 
-profesional lego hacker!
+profesional lego hacker
 
 ```
 
@@ -44,4 +44,8 @@ profesional lego hacker!
 `-.___,-.      .-.        ___,'        (/    
          `---'`   `'----'`
 
+```
+
+```lua
+capi#5296
 ```
