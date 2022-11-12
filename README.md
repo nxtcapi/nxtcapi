@@ -46,6 +46,6 @@ profesional lego hacker
 
 ```
 
-```lua
+```
 capi#5296
 ```
