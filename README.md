@@ -1,5 +1,5 @@
 ```lua
-i make stuff :p
+i make stuff 
 
 profesional lego hacker
 
@@ -47,5 +47,5 @@ profesional lego hacker
 ```
 
 ```
-capi#5296
+capi#0001
 ```
