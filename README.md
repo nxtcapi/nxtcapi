@@ -1,7 +1,7 @@
 <div align="center" >
 <table width="100%">
   
-### [ capi ]
+###  capi 
 
 ### cpp, cs
 ### py, lua, rs
